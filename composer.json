@@ -1,12 +1,12 @@
 {
-    "name": "gloudemans/shoppingcart",
+    "name": "irabbi360/shoppingcart",
     "description": "Laravel Shoppingcart",
     "keywords": ["laravel", "shoppingcart"],
     "license": "MIT",
     "authors": [
         {
-            "name": "Rob Gloudemans",
-            "email": "info@robgloudemans.nl"
+            "name": "Fazle Rabbi",
+            "email": "fazle08rabbi@gmail.com"
         }
     ],
     "require": {
